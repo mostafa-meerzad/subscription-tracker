@@ -171,3 +171,8 @@ app.listen(PORT, () => {
 })
 
 ```
+
+## Create Modals
+
+In the root of your project create a separate folder `modals` that you put your mongoose modals there
+each modal is separate into it's own file and all the related code goes in that file. this way you keep a clean codebase
